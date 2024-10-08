@@ -5,8 +5,8 @@ University of Zagreb, Faculty of Electrical Engineering and Computing, course: S
 This project contains the following files:
 * python notebook conatining the code used for the seminar,
 * financial data used in to show applications in finance comprised of:
-  * stock and bond returns collected by R. Shiller,
-  * unemployment rate and sticky price consumer price index from FRED data,
+  * stock and bond returns collected by R. Shiller http://www.econ.yale.edu/~shiller/data.htm,
+  * unemployment rate and sticky price consumer price index from FRED data https://fred.stlouisfed.org/,
 * pdf file with the seminar.
 
 ## Topic outline
